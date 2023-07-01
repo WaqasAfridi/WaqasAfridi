@@ -1,7 +1,7 @@
 # Hi there, I'm Waqas Afridi! 👋
 
 ## About Me
-I am currently pursuing the Meta Front-End Web Development Professional Certification on Coursera, which consists of nine courses covering various aspects of front-end development. I have already completed the following three courses: "Introduction to Front-End Development," "Programming with JavaScript," and "Version Control." Currently, I'm working on "HTML and CSS in Depth."
+I am currently studying in the 4th Semester of BS Computer Science, also pursuing the Meta Front-End Web Development Professional Certification on Coursera, which consists of nine courses covering various aspects of front-end development. I have already completed the following three courses: "Introduction to Front-End Development," "Programming with JavaScript," and "Version Control." Currently, I'm working on "HTML and CSS in Depth."
 
 ## Skills
 - Programming Languages: JavaScript, C, C++, Python
